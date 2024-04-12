@@ -1,4 +1,5 @@
 llama-index
-pypdf
 python-dotenv
+pypdf
 pandas
+llama_hub
