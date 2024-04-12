@@ -6,17 +6,17 @@ This project demonstrates the use of `llama_index` to create a versatile tool wi
 
 ## **Population Data Analysis:**
 
-    - Leverages a pandas DataFrame loaded from a CSV file (`data/population.csv`).
-    - Provides a query engine (`population_query_engine`) for interactive exploration of population data using custom prompts.
+- Leverages a pandas DataFrame loaded from a CSV file (`data/population.csv`).
+- Provides a query engine (`population_query_engine`) for interactive exploration of population data using custom prompts.
 
 ## **Note Taking:**
 
-    - Offers a `note_engine` tool for saving text-based notes to a designated file (`data/notes.txt`).
+- Offers a `note_engine` tool for saving text-based notes to a designated file (`data/notes.txt`).
 
 ## **Canada PDF Information Access:**
 
-    - Utilizes `pdf.py` to create a searchable index for a PDF document named `canada.pdf` located in the `./data/PDF` directory.
-    - Provides a query engine (`canada_engine`) for retrieving information from the indexed PDF content.
+- Utilizes `pdf.py` to create a searchable index for a PDF document named `canada.pdf` located in the `./data/PDF` directory.
+- Provides a query engine (`canada_engine`) for retrieving information from the indexed PDF content.
 
 ## **Execution:**
 
@@ -32,9 +32,9 @@ The main entry point is `main.py`. To run the project:
 
 3. Run `python main.py` from the command line.
 
-```bash
-    python main.py
-```
+    ```bash
+        python main.py
+    ```
 
 ## **Interaction:**
 
