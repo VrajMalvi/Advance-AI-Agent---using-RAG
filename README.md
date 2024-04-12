@@ -2,6 +2,8 @@
 
 This project demonstrates the use of `llama_index` to create a versatile tool with functionalities using Retrieval-Augmented Generation(RAG). It's a technique that enhances the accuracy and reliability of LLM outputs by incorporating information from external knowledge sources.
 
+![RAG using OpenAI and llama-index](./__Image__/1.png)
+
 ## **Population Data Analysis:**
 
     - Leverages a pandas DataFrame loaded from a CSV file (`data/population.csv`).
