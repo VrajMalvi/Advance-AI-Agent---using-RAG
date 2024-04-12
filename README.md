@@ -42,16 +42,16 @@ The script will prompt you to enter queries. Here are some examples:
 
 ### **Population Data Analysis (using `population_data` tool):**
 
-    - "What is the total population of the world?"
-    - "Find countries with a population greater than 100 million." (Requires defining a custom prompt for population filtering)
+- "What is the total population of the world?"
+- "Find countries with a population greater than 100 million." (Requires defining a custom prompt for population filtering)
 
 ### **Note Taking**
 
-    - Use an external tool to interact with the `note_engine` (not directly demonstrated in `main.py`).
+- Use an external tool to interact with the `note_engine` (not directly demonstrated in `main.py`).
 
 ### **Canada PDF Information Access (using `canada_data` tool):**
 
-    - "What is the capital of Canada?" (Assuming the information is present in the PDF)
+- "What is the capital of Canada?" (Assuming the information is present in the PDF)
 
 ## **Code Structure:**
 
