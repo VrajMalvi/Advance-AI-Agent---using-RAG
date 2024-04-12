@@ -1,16 +1,15 @@
 .
 ├── LICENSE
 ├── README.md
-├── __pycache__
-│   └── prompts.cpython-312.pyc
 ├── data
-│   ├── Canada.pdf
+│   ├── PDF
+│   │   └── canada.pdf
 │   ├── notes.txt
 │   └── population.csv
+├── directory.txt
+├── key.env
 ├── main.py
 ├── note_engine.py
 ├── pdf.py
 ├── prompts.py
 └── requirements.txt
-
-3 directories, 11 files
